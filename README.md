@@ -6,10 +6,16 @@ The files in this repository are practise questions that allowed me to generate 
 Using Jupyter Labs, we use SQL library each time we generate a query. We connect to Dognition's Database with %sql mysql://studentuser:studentpw@mysqlserver/dognitiondb and start practising SHOW, DESCRIBE, SELECT, FROM and LIMIT clauses.
 
 ### Excercise 2
-In this excercise we begin WHERE, IN, NULL, LIKE, YEAR, MONTH clauses to..........  Operators like -, +, <, = are introduced and practised.
+In this excercise we begin WHERE, IN, NULL, LIKE, YEAR, MONTH clauses. Additionally, operators like -, +, <, = are introduced and practised as well.
 
 ### Excercise 3
-Excercise 3 focuses on DISTINCT, ORDER BY, DESC, ASC, IS NOT, AND, REPLACE, TRIM, 
+Excercise 3 focuses on DISTINCT, ORDER BY, DESC, ASC, IS NOT, AND, REPLACE, adn TRIM. This excercise helps us remove certain characters off values within our tables with TRIM and arrange our exclusive data with DISTINCT, DESC, ASC and ORDER BY.
+
+### Excercise 4
+For excercise 4 we touch on the COUNT function to identify the number of rows under a selected column. We also used SUM to identify null values. AVG, MIN, MAX, TIMESTAMPDIFF statistical functions are used to analyze certains columns in a table.
+
+### Excercise 5
+The GROUP BY clause is rigorously studied here where values under a selected column can be clustered together and sorted ascendingly or descendingly.
 
 
 ## Certificate
