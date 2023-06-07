@@ -15,7 +15,14 @@ Excercise 3 focuses on DISTINCT, ORDER BY, DESC, ASC, IS NOT, AND, REPLACE, adn 
 For excercise 4 we touch on the COUNT function to identify the number of rows under a selected column. We also used SUM to identify null values. AVG, MIN, MAX, TIMESTAMPDIFF statistical functions are used to analyze certains columns in a table.
 
 ### Excercise 5
-The GROUP BY clause is studied in-depthly here where values under a selected column can be clustered together and sorted ascendingly or descendingly (alphabetically or numerically)
+The GROUP BY clause is studied in-depthly here where values under a selected column can be clustered together and sorted ascendingly or descendingly (alphabetically or numerically).
+
+### Excercise 7
+For excercise 7, we touch on INNER JOINs clause. Combining with clauses like HAVING, ORDER BY and WHERE, we properly map the rows and columns together between two tables so that we end up with a common table of unique information to exatract insights from. We also are taught about the Cartesian product problem in relational databases prompting the database to forcefully duplicate and combine every row from the two tables together if there isnt a query telling the database how the two queries are related. 
+
+### Exercise 8
+
+
 
 
 ## Certificate
