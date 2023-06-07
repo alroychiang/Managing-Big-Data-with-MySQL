@@ -15,7 +15,7 @@ Excercise 3 focuses on DISTINCT, ORDER BY, DESC, ASC, IS NOT, AND, REPLACE, adn 
 For excercise 4 we touch on the COUNT function to identify the number of rows under a selected column. We also used SUM to identify null values. AVG, MIN, MAX, TIMESTAMPDIFF statistical functions are used to analyze certains columns in a table.
 
 ### Excercise 5
-The GROUP BY clause is rigorously studied here where values under a selected column can be clustered together and sorted ascendingly or descendingly.
+The GROUP BY clause is studied in-depthly here where values under a selected column can be clustered together and sorted ascendingly or descendingly (alphabetically or numerically)
 
 
 ## Certificate
