@@ -21,8 +21,13 @@ The GROUP BY clause is studied in-depthly here where values under a selected col
 For excercise 7, we touch on INNER JOINs clause. Combining with clauses like HAVING, ORDER BY and WHERE, we properly map the rows and columns together between two tables so that we end up with a common table of unique information to exatract insights from. We also are taught about the Cartesian product problem in relational databases prompting the database to forcefully duplicate and combine every row from the two tables together if there isnt a query telling the database how the two queries are related. 
 
 ### Exercise 8
+Here, outer joins (left and right joins) have to be properly ordered when calling the clauses in order to retain the appropriate rows of interest when the table is produced. We also touch on how to extract all columns and rows of a table using '\*' and WHERE clauses. ALways look at samepl outputs of my queiries before strongly interpreting aggregated calculations, especially when joins are used.
 
+### Excercise 9
+Excercise 9 focuses on subqueries and derived tables to isolate each logical part of a statement which is better for troubleshooting long and complicated queries. We are able to generate small portions off table A to compare with table B for assessing whether groups or rows are members of other groups or rows. This may speed up the processing time compared to JOIN clauses. All inner most subqueries are executed first, extending out towards the outer most subquery.
 
+### Excercise 10
+We practised nested IF statements within the SELECT clause to display selected rows of data. The CASE clause is a more compact representation of multiple IF statements that provides the same functionality to group and extract rows that fufill the match case keyword. 
 
 
 ## Certificate
