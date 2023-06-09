@@ -27,7 +27,13 @@ Here, outer joins (left and right joins) have to be properly ordered when callin
 Excercise 9 focuses on subqueries and derived tables to isolate each logical part of a statement which is better for troubleshooting long and complicated queries. We are able to generate small portions off table A to compare with table B for assessing whether groups or rows are members of other groups or rows. This may speed up the processing time compared to JOIN clauses. All inner most subqueries are executed first, extending out towards the outer most subquery.
 
 ### Excercise 10
-We practised nested IF statements within the SELECT clause to display selected rows of data. The CASE clause is a more compact representation of multiple IF statements that provides the same functionality to group and extract rows that fufill the match case keyword. 
+We practised nested IF statements within the SELECT clause to display selected rows of data. The CASE clause is a more compact representation of multiple IF statements that provides the same functionality to group and extract rows that fufill the match case keyword. Subsequently, we incorportate logical expressions such as >=, <=, !=, AND, OR, and NOT that filters the table even more. The order of these logical expressions (if no parenthesis used) are important as NOT, AND, OR operators are executed with priority as stated respectively.
+
+### Excercise 11
+Excercise 11 touches on Analysis Planning to help address questions that are relevant to a business' objectives quickly and efficiently. Structured Pyramid Analysis Plan is a specific, measurable, attainable, relevant and time-bound perspective of the general project's objective. The excercise questions here are rigourous in manipulating the existing data and extracting only a custom, unique, important information off to address the business' objective E.g Assessing if a Dog's personality trait (playful, aggressive, sociable) are linked to the number of tests/challenges the Dog would complete. 
+
+### Excercise 12
+For the last excercise, we target 
 
 
 ## Certificate
