@@ -33,7 +33,7 @@ We practised nested IF statements within the SELECT clause to display selected r
 Excercise 11 touches on Analysis Planning to help address questions that are relevant to a business' objectives quickly and efficiently. Structured Pyramid Analysis Plan is a specific, measurable, attainable, relevant and time-bound perspective of the general project's objective. The excercise questions here are rigourous in manipulating the existing data and extracting only a custom, unique, important information off to address the business' objective E.g Assessing if a Dog's personality trait (playful, aggressive, sociable) are linked to the number of tests/challenges the Dog would complete. This question is then broken down into smaller questions (E.g What are the different kinds of personality traits, what are the different kinds of challenges in the data base) which would require even more queries to address these questions. 
 
 ### Excercise 12
-For the last excercise, we target 
+For the last excercise, we practised querying the number of tests dogs completed on each day of the week, practised extracting the days of the week from timestamps, used CASE clauses for more descriptive outputs, sorting the results, handle duplicate rows, retreiveing distinct values and joining tables to exclude falgged entries. Finally we focus on analyzing the trends of completed tests on each weekday across different years in the database, adjusting the time_stamps to account for time zone differences.
 
 
 ## Certificate
